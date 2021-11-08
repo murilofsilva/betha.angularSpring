@@ -1,0 +1,21 @@
+table {
+    width: 100%;
+    background-color:rgb(190, 183, 173);
+}
+
+.view {
+    color: black;
+}
+
+.viewTitle {
+    color: black;
+    text-size-adjust: 80%;
+}
+
+#addForm {
+    color: black;
+}
+
+i {
+    color:brown;
+}

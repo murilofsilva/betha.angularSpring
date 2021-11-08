@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    align-items: center;
+
+}
+
+.header a{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo{
+    max-height: 32px;
+}
+
+.icon{
+    color:antiquewhite;
+}
+
+.title{
+    padding-left: 10px;
+}
+
+.title2{
+    padding-left: 8px;
+}

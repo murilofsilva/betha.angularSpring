@@ -1,0 +1,31 @@
+.botaoSave {
+    background-color:rgb(33, 12, 53);
+    color: white;
+    max-width: 10%;
+    margin-left: 10px;
+}
+
+.botaoCancel {
+    background-color:rgb(48, 18, 18);
+    color: white;
+    margin-left: 10px;
+    max-width: 10%;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 8px;
+}
+
+.fundo {
+    background-color: rgb(44, 44, 43);
+    color: white;
+}
+
+.texto {
+    color: white;
+}

@@ -1,0 +1,21 @@
+.black {
+    color: black;
+}
+
+.marge {
+    padding-left: 3px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+
+    display: felx;
+    justify-content: flex-end;
+        background-color: white;
+}
+
+.footer span {
+    font-size: 1rem;
+    font-weight: 300;
+}
